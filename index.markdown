@@ -1,0 +1,115 @@
+---
+# Feel free to add content and custom Front Matter to this file.
+# To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
+
+title: home
+layout: default
+---
+
+ <!-- Google Tag Manager (noscript) -->
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-PMMQQ6D"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<!-- End Google Tag Manager (noscript) -->
+
+   <div class="container">
+      <div class="header clearfix">
+              <nav class="navbar navbar-expand-lg navbar-dark bg-primary">
+          <a class="navbar-brand" href="/"><img src="/assets/images/web/navbar/home_bar_button_light.svg"></a>
+          <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarColor01" aria-controls="navbarColor01" aria-expanded="false" aria-label="Toggle navigation">
+            <span class="navbar-toggler-icon"></span>
+          </button>  
+          <div class="collapse navbar-collapse" id="navbarColor01">
+            <ul class="navbar-nav mr-auto">
+              <li class="nav-item active">
+                  <span class="sr-only">(current)</span>
+             </li>
+              <li class="nav-item">
+               <a class="nav-link" href="https://audiologiks.zendesk.com/hc"><img src="/assets/images/web/navbar/article_bar_button_ja_light.svg"></a>
+             </li>
+              <li class="nav-item">
+                <a class="nav-link" href="webclient/Japan/desk_app.php"><img src="/assets/images/web/navbar/listen_bar_button_ja_light.svg"></a>
+              </li>
+                <li class="nav-item">
+                <a class="nav-link" href="/about/"><img src="/assets/images/web/navbar/about_bar_button_light_ja.svg"></a>
+              </li>
+              <li class="nav-item">
+                <a class="nav-link" href="ja"><img src="/assets/images/web/navbar/japanese_bar_button_ja_light.svg"></a>
+              </li>
+            </ul>
+          </div>
+        </nav>
+      </div>
+<!-- article main -->
+      <div class="jumbotron">
+<!-- Front Page 2/16-->
+<h1>Understanding Password behavior</h1>
+        <p class="lead">See our Articles</p>
+        <p><a href="https://audiologiks.zendesk.com/hc/en-us/"><img src="/assets/images/web/front/content_labels/grafitti_wall.svg"></a></p>
+      </div>
+<!-- google ad -->
+      <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+
+<!-- al-kb-leaderboard -->
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-0436801005616261"
+     data-ad-slot="5967170806"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+<!-- end -->
+
+ <div class="row marketing">
+  <div class="col-lg-6">
+
+<!-- article #1 -->
+   <h4>Understanding passwords </h4>
+   <button type="button" class="btn btn-success">how do you create passwords </button>
+
+  <p>When you create an account on a website, it depends on their password management practices as to whether or not they encourage users to make more complex passwords and if they offer the option of multifactor authentication. </p>
+
+  <!-- article #２ -->
+  <h4>How many accounts do you have?</h4>
+  <button type="button" class="btn btn-success">re-using passwords</button>
+  <p> Take some time to think about your most-used accounts, and then about other websites you visit. If you mostly use your mobile phone, how many apps do you have on your phone? Are you reusing passwords or picking similar passwords for accounts? This can enable other people to guess your password to an account if they have just one example of a password you have created.</p>
+
+  <!-- article #3 -->
+  <h4>Do you delete accounts?</h4>
+  <button type="button" class="btn btn-success">forgotten accounts</button>
+  <p>For accounts they no longer use, people have different practices they follow. Some people abandon the accounts, never logging in again. Others might have put in only the bare minimum of information, and then change it so it's not easily linked back to them, making it a throwaway account. Some companies and websites have made it easier for users to delete their accounts, in keeping with trends in respecting user control of personal data. </p>
+  </div>
+  
+<div class="col-lg-6">
+  <!-- article #4 -->
+  <h4>What accounts are most important?</h4>
+  <button type="button" class="btn btn-primary">extra security</button>
+  <p>Prioritizing accounts by their importance to your daily life means that work or school-related accounts, email or IM, healthcare, social media and financial accounts can be the ones most people use every day. Depending on the person, there can be more websites and in those accounts, there will be lots of information that you don't want to lose access to nor necessarily have other people know. For those accounts, you could choose to follow some extra security precautions.</p>
+
+  <!-- article #5 -->
+  <p>
+  <img src="https://all-jp-1.s3-ap-northeast-1.amazonaws.com/img/click_pic/zd_al/home/cybersecurity_study.svg">
+</p>
+<!-- article #6 -->
+    <h4>Work accounts and passwords</h4>
+    <button type="button" class="btn btn-primary">changing passwords</button>
+  <p>For work accounts, organizations will want to protect themselves and impose some stricter requirements to confirm your identity, like changing passwords regularly, using multi-factor codes and/or using a VPN to login to shared applications. Even for work passwords, or maybe especially for them, passwords should be more complex than you use on other sites. </p>
+
+<!-- bottom banner -->
+
+   </div>
+      </div>
+
+  <footer class="footer">
+         <div class="card">
+  <div class="card-body">
+<p>Copyright 2015 - 2021 Audiologiks | <a href="https://www.audiologiks.com/admin/Privacy.php">Privacy</a> | <a href="https://www.audiologiks.com/admin/Terms_and_Conditions.php">Terms & Conditions</a> | Some Icons from <a href="https://www.icons8.com">Icons8</a> and <a href="https://www.material.io">material.io</a> | <a href="https://audiologiks.zendesk.com">Raise a ticket</a> to ask a question or email us at support[at]audiologiks.com</p> 
+ </div>
+</div>
+
+  </footer>
+
+  </div> <!-- /container -->
+    
+
