@@ -1,0 +1,83 @@
+/* Component 2 */
+
+position: absolute;
+width: 150px;
+height: 150px;
+left: 839px;
+top: 487px;
+
+
+
+/* Rectangle 2 */
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 0%;
+bottom: 0%;
+
+background: #FFFFFF;
+border: 1px solid #000000;
+box-sizing: border-box;
+
+
+/* record_voice_over-24px 1 */
+
+position: absolute;
+left: 22.67%;
+right: 10.67%;
+top: 2.67%;
+bottom: 30.67%;
+
+
+
+/* Vector */
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 0%;
+bottom: 0%;
+
+
+
+/* Vector */
+
+position: absolute;
+left: 20.83%;
+right: 45.83%;
+top: 20.83%;
+bottom: 45.83%;
+
+background: #000000;
+
+
+/* Vector */
+
+position: absolute;
+left: 4.17%;
+right: 4.17%;
+top: 8.33%;
+bottom: 12.5%;
+
+background: #000000;
+
+
+/* Talk */
+
+position: absolute;
+left: 9.33%;
+right: 7.33%;
+top: 70.67%;
+bottom: 2.67%;
+
+font-family: Cairo;
+font-style: normal;
+font-weight: normal;
+font-size: 48px;
+line-height: 24px;
+/* or 50% */
+text-align: center;
+
+color: #000000;
+
