@@ -28,7 +28,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                 <a class="nav-link" href="#"><img src="/assets/images/web/navbar/listen_bar_button_light.svg"></a>
               </li>
                 <li class="nav-item">
-                <a class="nav-link" href="/about/"><img src="/assets/images/web/navbar/about_bar_button_light_ja.svg"></a>
+                <a class="nav-link" href="/about/"><img src="/assets/images/web/navbar/about_bar_button_light.svg"></a>
               </li>
               <li class="nav-item">
                 <a class="nav-link" href="ja"><img src="/assets/images/web/navbar/japanese_bar_button_light.svg"></a>

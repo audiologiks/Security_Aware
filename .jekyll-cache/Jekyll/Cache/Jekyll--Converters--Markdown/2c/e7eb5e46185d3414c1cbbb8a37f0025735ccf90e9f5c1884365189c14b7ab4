@@ -1,15 +1,7 @@
----
-# Feel free to add content and custom Front Matter to this file.
-# To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
-
-title: home
-layout: default
----
-
-   <div class="container">
+I"ž<div class="container">
       <div class="header clearfix">
               <nav class="navbar navbar-expand-lg navbar-dark bg-primary">
-          <a class="navbar-brand" href="/"><img src="/assets/images/web/navbar/home_bar_button_light.svg"></a>
+          <a class="navbar-brand" href="/"><img src="/assets/images/web/navbar/home_bar_button_light.svg" /></a>
           <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarColor01" aria-controls="navbarColor01" aria-expanded="false" aria-label="Toggle navigation">
             <span class="navbar-toggler-icon"></span>
           </button>  
@@ -19,16 +11,16 @@ layout: default
                   <span class="sr-only">(current)</span>
              </li>
                 <li class="nav-item">
-               <a class="nav-link" href="#"><img src="/assets/images/web/navbar/articles_bar_button_light.svg"></a>
+               <a class="nav-link" href="#"><img src="/assets/images/web/navbar/articles_bar_button_light.svg" /></a>
              </li>
               <li class="nav-item">
-                <a class="nav-link" href="#"><img src="/assets/images/web/navbar/listen_bar_button_light.svg"></a>
+                <a class="nav-link" href="#"><img src="/assets/images/web/navbar/listen_bar_button_light.svg" /></a>
               </li>
                 <li class="nav-item">
-                <a class="nav-link" href="/about/"><img src="/assets/images/web/navbar/about_bar_button_light.svg"></a>
+                <a class="nav-link" href="/about/"><img src="/assets/images/web/navbar/about_bar_button_light.svg" /></a>
               </li>
               <li class="nav-item">
-                <a class="nav-link" href="ja"><img src="/assets/images/web/navbar/japanese_bar_button_light.svg"></a>
+                <a class="nav-link" href="ja"><img src="/assets/images/web/navbar/japanese_bar_button_light.svg" /></a>
               </li>
             </ul>
           </div>
@@ -39,7 +31,7 @@ layout: default
 <!-- Front Page 2/16-->
 <h1>Understanding Password behavior</h1>
         <p class="lead">See our Articles</p>
-        <p><a href="https://audiologiks.zendesk.com/hc/en-us/"><img src="/assets/images/web/front/content_labels/grafitti_wall.svg"></a></p>
+        <p><a href="https://audiologiks.zendesk.com/hc/en-us/"><img src="/assets/images/web/front/content_labels/grafitti_wall.svg" /></a></p>
       </div>
 
  <div class="row marketing">
@@ -70,7 +62,7 @@ layout: default
 
   <!-- article #5 -->
   <p>
-  <img src="https://all-jp-1.s3-ap-northeast-1.amazonaws.com/img/click_pic/zd_al/home/cybersecurity_study.svg">
+  <img src="https://all-jp-1.s3-ap-northeast-1.amazonaws.com/img/click_pic/zd_al/home/cybersecurity_study.svg" />
 </p>
 <!-- article #6 -->
     <h4>Work accounts and passwords</h4>
@@ -91,6 +83,7 @@ layout: default
 
   </footer>
 
-  </div> <!-- /container -->
-    
+  </div>
+<p><!-- /container --></p>
 
+:ET
