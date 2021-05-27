@@ -1,18 +1,11 @@
----
-layout: default
-title: About
-permalink: /about/
----
-
-<!-- Google Tag Manager (noscript) -->
-<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-PMMQQ6D"
-height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+I"_<!-- Google Tag Manager (noscript) -->
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-PMMQQ6D" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 <!-- End Google Tag Manager (noscript) -->
 
 <div class="container">
       <div class="header clearfix">
               <nav class="navbar navbar-expand-lg navbar-dark bg-primary">
-          <a class="navbar-brand" href="/"><img src="/assets/images/web/navbar/home_bar_button_light.svg"></a>
+          <a class="navbar-brand" href="/"><img src="/assets/images/web/navbar/home_bar_button_light.svg" /></a>
           <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarColor01" aria-controls="navbarColor01" aria-expanded="false" aria-label="Toggle navigation">
             <span class="navbar-toggler-icon"></span>
           </button>  
@@ -22,16 +15,16 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                   <span class="sr-only">(current)</span>
         </li>
               <li class="nav-item">
-               <a class="nav-link" href="#"><img src="/assets/images/web/navbar/articles_bar_button_light.svg"></a>
+               <a class="nav-link" href="#"><img src="/assets/images/web/navbar/articles_bar_button_light.svg" /></a>
              </li>
               <li class="nav-item">
-                <a class="nav-link" href="#"><img src="/assets/images/web/navbar/listen_bar_button_light.svg"></a>
+                <a class="nav-link" href="#"><img src="/assets/images/web/navbar/listen_bar_button_light.svg" /></a>
               </li>
                 <li class="nav-item">
-                <a class="nav-link" href="/about/"><img src="/assets/images/web/navbar/about_bar_button_light_ja.svg"></a>
+                <a class="nav-link" href="/about/"><img src="/assets/images/web/navbar/about_bar_button_light_ja.svg" /></a>
               </li>
               <li class="nav-item">
-                <a class="nav-link" href="ja"><img src="/assets/images/web/navbar/japanese_bar_button_light.svg"></a>
+                <a class="nav-link" href="ja"><img src="/assets/images/web/navbar/japanese_bar_button_light.svg" /></a>
               </li>
             </ul>
           </div>
@@ -79,9 +72,11 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                <footer class="footer">
          <div class="card">
   <div class="card-body">
-<p>Copyright | Some Icons from <a href="https://www.icons8.com">Icons8</a> and <a href="https://www.material.io">material.io</a> |/p> 
+<p>Copyright | Some Icons from <a href="https://www.icons8.com">Icons8</a> and <a href="https://www.material.io">material.io</a> |/p&gt; 
 
-  </div><!-- /.container -->
+  &lt;/div&gt;<!-- /.container -->
 
 
   <!-- FOOTER -->
+</p></div></div></footer></div></main></div>
+:ET

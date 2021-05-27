@@ -6,11 +6,6 @@ title: home
 layout: default
 ---
 
- <!-- Google Tag Manager (noscript) -->
-<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-PMMQQ6D"
-height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
-<!-- End Google Tag Manager (noscript) -->
-
    <div class="container">
       <div class="header clearfix">
               <nav class="navbar navbar-expand-lg navbar-dark bg-primary">
@@ -24,10 +19,10 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                   <span class="sr-only">(current)</span>
              </li>
               <li class="nav-item">
-               <a class="nav-link" href="https://audiologiks.zendesk.com/hc"><img src="/assets/images/web/navbar/article_bar_button_ja_light.svg"></a>
+               <a class="nav-link" href="#"><img src="/assets/images/web/navbar/article_bar_button_ja_light.svg"></a>
              </li>
               <li class="nav-item">
-                <a class="nav-link" href="webclient/Japan/desk_app.php"><img src="/assets/images/web/navbar/listen_bar_button_ja_light.svg"></a>
+                <a class="nav-link" href="#"><img src="/assets/images/web/navbar/listen_bar_button_ja_light.svg"></a>
               </li>
                 <li class="nav-item">
                 <a class="nav-link" href="/about/"><img src="/assets/images/web/navbar/about_bar_button_light_ja.svg"></a>
@@ -46,20 +41,6 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
         <p class="lead">See our Articles</p>
         <p><a href="https://audiologiks.zendesk.com/hc/en-us/"><img src="/assets/images/web/front/content_labels/grafitti_wall.svg"></a></p>
       </div>
-<!-- google ad -->
-      <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-
-<!-- al-kb-leaderboard -->
-<ins class="adsbygoogle"
-     style="display:block"
-     data-ad-client="ca-pub-0436801005616261"
-     data-ad-slot="5967170806"
-     data-ad-format="auto"
-     data-full-width-responsive="true"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-<!-- end -->
 
  <div class="row marketing">
   <div class="col-lg-6">
@@ -104,7 +85,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
   <footer class="footer">
          <div class="card">
   <div class="card-body">
-<p>Copyright 2015 - 2021 Audiologiks | <a href="https://www.audiologiks.com/admin/Privacy.php">Privacy</a> | <a href="https://www.audiologiks.com/admin/Terms_and_Conditions.php">Terms & Conditions</a> | Some Icons from <a href="https://www.icons8.com">Icons8</a> and <a href="https://www.material.io">material.io</a> | <a href="https://audiologiks.zendesk.com">Raise a ticket</a> to ask a question or email us at support[at]audiologiks.com</p> 
+<p>Copyright  | Some Icons from <a href="https://www.icons8.com">Icons8</a> and <a href="https://www.material.io">material.io</a> | </p> 
  </div>
 </div>
 
