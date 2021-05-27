@@ -18,17 +18,17 @@ layout: default
               <li class="nav-item active">
                   <span class="sr-only">(current)</span>
              </li>
-              <li class="nav-item">
-               <a class="nav-link" href="#"><img src="/assets/images/web/navbar/article_bar_button_ja_light.svg"></a>
+                <li class="nav-item">
+               <a class="nav-link" href="#"><img src="/assets/images/web/navbar/articles_bar_button_light.svg"></a>
              </li>
               <li class="nav-item">
-                <a class="nav-link" href="#"><img src="/assets/images/web/navbar/listen_bar_button_ja_light.svg"></a>
+                <a class="nav-link" href="#"><img src="/assets/images/web/navbar/listen_bar_button_light.svg"></a>
               </li>
                 <li class="nav-item">
                 <a class="nav-link" href="/about/"><img src="/assets/images/web/navbar/about_bar_button_light_ja.svg"></a>
               </li>
               <li class="nav-item">
-                <a class="nav-link" href="ja"><img src="/assets/images/web/navbar/japanese_bar_button_ja_light.svg"></a>
+                <a class="nav-link" href="ja"><img src="/assets/images/web/navbar/japanese_bar_button_light.svg"></a>
               </li>
             </ul>
           </div>
