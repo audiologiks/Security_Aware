@@ -22,7 +22,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                   <span class="sr-only">(current)</span>
         </li>
                 <li class="nav-item">
-                <a class="nav-link" href="/about/"><img src="/assets/images/web/navbar/about_bar_button_light.svg"></a>
+                <a class="nav-link" href="/about/"><img src="/assets/images/web/navbar/about_bar_button_light_2.svg"></a>
               </li>
             </ul>
           </div>

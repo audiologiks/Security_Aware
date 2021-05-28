@@ -30,7 +30,7 @@ layout: default
 <!-- Front Page 2/16-->
 <h1>Understanding Password behavior</h1>
         <p class="lead">See our Articles</p>
-        <p><a href="https://audiologiks.zendesk.com/hc/en-us/"><img src="/assets/images/web/front/content_labels/grafitti_wall.svg"></a></p>
+        <p><a href="https://audiologiks.zendesk.com/hc/en-us/"><img src="/assets/images/web/continuing_education_2021.svg"></a></p>
       </div>
 
  <div class="row marketing">
