@@ -70,7 +70,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                <footer class="footer">
          <div class="card">
   <div class="card-body">
-<p>Copyright | Some Icons from <a href="https://www.icons8.com">Icons8</a> and <a href="https://www.material.io">material.io</a> |/p> 
+<p>Copyright | Some Icons from <a href="https://www.icons8.com">Icons8</a> and <a href="https://www.material.io">material.io</a> </p>
 
   </div><!-- /.container -->
 
