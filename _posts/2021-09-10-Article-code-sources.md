@@ -1,5 +1,4 @@
-Underworld developments, cyberespionage, and a large DDoS incident in Russia.
-https://thecyberwire.com/newsletters/daily-briefing/10/174
+[Underworld developments, cyberespionage, and a large DDoS incident in Russia.](https://thecyberwire.com/newsletters/daily-briefing/10/174)
 
 Article on Cyberwire
 
